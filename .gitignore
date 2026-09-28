@@ -1,4 +1,5 @@
 # Simulation files
+sim/
 sim/*.vvp
 sim/*.out
 sim/spi_master_sim
