@@ -1,0 +1,20 @@
+# Simulation files
+sim/*.vvp
+sim/*.out
+sim/spi_master_sim
+
+# Compiled simulation executable
+spi_master_sim
+waveforms/spi_master_sim
+
+# Waveform files
+waveforms/*.vcd
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
